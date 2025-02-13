@@ -1,4 +1,4 @@
-#HomeGuard – Sistema de Monitoramento e Diagnóstico Residencial 🏠
+# HomeGuard – Sistema de Monitoramento e Diagnóstico Residencial 🏠
 O **HomeGuard** é uma solução baseada em Arduino projetada para monitorar a temperatura, a luminosidade, além de corrente e tensão elétrica em ambientes residenciais ou comerciais. Ele oferece um diagnóstico preciso para identificar possíveis problemas em sistemas elétricos e ambientais, ajudando a garantir a segurança e a eficiência.
 
 ## 🔍 Objetivo do Projeto
